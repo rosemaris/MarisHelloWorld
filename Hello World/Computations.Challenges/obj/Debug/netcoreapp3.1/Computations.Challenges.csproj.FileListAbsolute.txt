@@ -1,0 +1,10 @@
+D:\Maris\c# tutorial\Hello World\Computations.Challenges\bin\Debug\netcoreapp3.1\Computations.Challenges.deps.json
+D:\Maris\c# tutorial\Hello World\Computations.Challenges\bin\Debug\netcoreapp3.1\Computations.Challenges.dll
+D:\Maris\c# tutorial\Hello World\Computations.Challenges\bin\Debug\netcoreapp3.1\Computations.Challenges.pdb
+D:\Maris\c# tutorial\Hello World\Computations.Challenges\obj\Debug\netcoreapp3.1\Computations.Challenges.csproj.AssemblyReference.cache
+D:\Maris\c# tutorial\Hello World\Computations.Challenges\obj\Debug\netcoreapp3.1\Computations.Challenges.GeneratedMSBuildEditorConfig.editorconfig
+D:\Maris\c# tutorial\Hello World\Computations.Challenges\obj\Debug\netcoreapp3.1\Computations.Challenges.AssemblyInfoInputs.cache
+D:\Maris\c# tutorial\Hello World\Computations.Challenges\obj\Debug\netcoreapp3.1\Computations.Challenges.AssemblyInfo.cs
+D:\Maris\c# tutorial\Hello World\Computations.Challenges\obj\Debug\netcoreapp3.1\Computations.Challenges.csproj.CoreCompileInputs.cache
+D:\Maris\c# tutorial\Hello World\Computations.Challenges\obj\Debug\netcoreapp3.1\Computations.Challenges.dll
+D:\Maris\c# tutorial\Hello World\Computations.Challenges\obj\Debug\netcoreapp3.1\Computations.Challenges.pdb

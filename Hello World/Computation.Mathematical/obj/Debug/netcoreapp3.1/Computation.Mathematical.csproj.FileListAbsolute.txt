@@ -1,0 +1,5 @@
+D:\Maris\c# tutorial\Hello World\Computation.Mathematical\obj\Debug\netcoreapp3.1\Computation.Mathematical.csproj.AssemblyReference.cache
+D:\Maris\c# tutorial\Hello World\Computation.Mathematical\obj\Debug\netcoreapp3.1\Computation.Mathematical.GeneratedMSBuildEditorConfig.editorconfig
+D:\Maris\c# tutorial\Hello World\Computation.Mathematical\obj\Debug\netcoreapp3.1\Computation.Mathematical.AssemblyInfoInputs.cache
+D:\Maris\c# tutorial\Hello World\Computation.Mathematical\obj\Debug\netcoreapp3.1\Computation.Mathematical.AssemblyInfo.cs
+D:\Maris\c# tutorial\Hello World\Computation.Mathematical\obj\Debug\netcoreapp3.1\Computation.Mathematical.csproj.CoreCompileInputs.cache

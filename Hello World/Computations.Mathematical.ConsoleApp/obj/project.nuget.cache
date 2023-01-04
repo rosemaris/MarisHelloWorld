@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "d2EpJGDZsQ2C7w4m0Z9XPO6yCtNIJiO7AI8z8joWMWrE+i6rAt4yvuWHX6rI13zYRKgbYc/Lvx04z0v5b+8kHQ==",
+  "success": true,
+  "projectFilePath": "D:\\Maris\\c# tutorial\\Hello World\\Computations.Mathematical.ConsoleApp\\Computations.Mathematical.ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Maris\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\Maris\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
+  ],
+  "logs": []
+}

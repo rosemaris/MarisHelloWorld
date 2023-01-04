@@ -1,0 +1,10 @@
+D:\Maris\c# tutorial\Hello World\Computations.Mathematical\bin\Debug\netcoreapp3.1\Computations.Mathematical.deps.json
+D:\Maris\c# tutorial\Hello World\Computations.Mathematical\bin\Debug\netcoreapp3.1\Computations.Mathematical.dll
+D:\Maris\c# tutorial\Hello World\Computations.Mathematical\bin\Debug\netcoreapp3.1\Computations.Mathematical.pdb
+D:\Maris\c# tutorial\Hello World\Computations.Mathematical\obj\Debug\netcoreapp3.1\Computations.Mathematical.csproj.AssemblyReference.cache
+D:\Maris\c# tutorial\Hello World\Computations.Mathematical\obj\Debug\netcoreapp3.1\Computations.Mathematical.GeneratedMSBuildEditorConfig.editorconfig
+D:\Maris\c# tutorial\Hello World\Computations.Mathematical\obj\Debug\netcoreapp3.1\Computations.Mathematical.AssemblyInfoInputs.cache
+D:\Maris\c# tutorial\Hello World\Computations.Mathematical\obj\Debug\netcoreapp3.1\Computations.Mathematical.AssemblyInfo.cs
+D:\Maris\c# tutorial\Hello World\Computations.Mathematical\obj\Debug\netcoreapp3.1\Computations.Mathematical.csproj.CoreCompileInputs.cache
+D:\Maris\c# tutorial\Hello World\Computations.Mathematical\obj\Debug\netcoreapp3.1\Computations.Mathematical.dll
+D:\Maris\c# tutorial\Hello World\Computations.Mathematical\obj\Debug\netcoreapp3.1\Computations.Mathematical.pdb
